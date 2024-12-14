@@ -126,6 +126,14 @@ Contributions are welcome! Feel free to [open an issue](https://github.com/TheTo
 
 Let's connect and discuss all things DevOps and containerization!
 
+## 👏 Acknowledgments
+- [Poridhi](https://devops.poridhi.io/) for providing comprehensive DevOps learning resources
+- Special thanks to **Docker** for providing excellent multi-stage build capabilities that made this optimization possible
+- Gratitude to the **Node.js** community for maintaining the slim images that significantly reduce our container size
+- Thanks to **Font Awesome** for their comprehensive icon collection that enhanced our UI
+- Appreciation to my mentors and colleagues who provided valuable feedback on container optimization techniques
+- Thanks to the open-source community for their continuous contributions to containerization best practices
+
 ---
 
 Thank you for exploring this project! I hope you find these containerization techniques valuable for your own projects. Happy containerizing! 🐳
