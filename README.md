@@ -1,4 +1,4 @@
-# 🚀 Node.js Multi-Stage Build Optimization
+# 🐳 NodeSlim: Docker Multi-Stage Mastery
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-multi--stage--nodejs--build-blue?style=flat&logo=github)](https://github.com/TheToriqul/multi-stage-nodejs-build)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
